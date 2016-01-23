@@ -21,7 +21,9 @@ does not exist*."
   - You can click 'Preview' link to preview your written portfolio.
   - Click the 'Edit new file' again to continue editing.
   - GitHub uses 'GitHub Flavored Markdown' and the hashtag symbol (\#) marks headings.
-  - For the portfolio, the only formatting requirement is WEEKLY headings and itemized learnings, e.x.:
+  - For the portfolio, the only formatting requirement is WEEKLY headings with itemized weekly learnings limited to ONE sentence per item, (Of course, nobody will mind if you will show off with nice markdown tricks like linking/embedding images or perhaps creating tables, but they're not required) e.x.:
   - Note: You can refer to the following link for a very basic introduction to GitHub Flavored Markdown: https://help.github.com/articles/markdown-basics 
+  - When done making changes, click 'Commit changes'
+  - When you have already clicked the 'Commit changes' button but still want to change something then just click the 'pencil icon' on the top whch means 'edit'.   
 
 3. TBA
