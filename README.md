@@ -41,7 +41,7 @@ does not exist*."
   
   - For the portfolio, the only formatting requirement is **WEEKLY headings with itemized weekly learnings limited to ONE sentence per item**. (Of course, nobody will mind if you will show off with nice markdown tricks like linking/embedding images or perhaps creating tables, etc., but they're not required).
   
-    Ex.
+    Ex. https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-melvincabatuan/tree/master 
 
   - Note: You can refer to the following link for a very basic introduction to GitHub flavored Markdown:
   
@@ -53,4 +53,4 @@ does not exist*."
 
   - Repeat the process of writing and editing until the term ends and you have completed your DISMATH portfolio.
 
-3. ToBeAnnounced
+3. ToBeAnnounced...
