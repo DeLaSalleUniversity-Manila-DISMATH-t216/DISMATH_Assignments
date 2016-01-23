@@ -61,6 +61,6 @@ does not exist*."
   
   - When you have already clicked the 'Commit changes' button but still want to change something then just click the 'Pencil icon' on the top right which means 'edit'.
 
-  - Repeat the process of writing and editing until the term ends and you have completed your DISMATH portfolio.
+  - Repeat the process of writing and editing until the term ends. By then, you have completed your DISMATH portfolio.
 
 3. ToBeAnnounced...
