@@ -35,7 +35,7 @@ does not exist*."
     Ex.
     ![Screenshot](Screenshot3.png)
 
-  - Just click 'README' link and start writing what you have learned in ths course.
+  - Just click 'README' link and start writing what you have learned in this course.
   
     Ex.
     ![Screenshot](Screenshot4.png)
