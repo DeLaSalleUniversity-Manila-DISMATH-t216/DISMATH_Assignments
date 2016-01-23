@@ -39,15 +39,18 @@ does not exist*."
   
   - GitHub uses 'GitHub Flavored Markdown' and the hashtag symbol (\#) marks headings.
   
-  - For the portfolio, the only formatting requirement is WEEKLY headings with itemized weekly learnings limited to ONE sentence per item, (Of course, nobody will mind if you will show off with nice markdown tricks like linking/embedding images or perhaps creating tables, but they're not required).
+  - For the portfolio, the only formatting requirement is **WEEKLY headings with itemized weekly learnings limited to ONE sentence per item**. (Of course, nobody will mind if you will show off with nice markdown tricks like linking/embedding images or perhaps creating tables, etc., but they're not required).
+  
     Ex.
 
-  - Note: You can refer to the following link for a very basic introduction to GitHub Flavored Markdown:
+  - Note: You can refer to the following link for a very basic introduction to GitHub flavored Markdown:
   
     https://help.github.com/articles/markdown-basics 
 
   - When done making changes, click 'Commit changes'
   
-  - When you have already clicked the 'Commit changes' button but still want to change something then just click the 'Pencil icon' on the top right which means 'edit'.   
+  - When you have already clicked the 'Commit changes' button but still want to change something then just click the 'Pencil icon' on the top right which means 'edit'.
+
+  - Repeat the process of writing and editing until the term ends and you have completed your DISMATH portfolio.
 
 3. ToBeAnnounced
