@@ -1,6 +1,4 @@
-# DISMATH_Assignments
-
-DISMATH Assignments
+# DISMATH Assignments Collection
 
 1. Evaluate the validity of the following argument:
 > " *Superman were able and willing to prevent evil,
