@@ -67,3 +67,6 @@ does not exist*."
 	- Click the Git-2.7.0-32-bit.exe, Click 'Run', and Click 'Next' on all options for the default.
 
 3. ToBeAnnounced...
+
+
+![Quote](learning)
