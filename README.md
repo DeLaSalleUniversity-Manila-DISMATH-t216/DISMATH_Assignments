@@ -60,5 +60,10 @@ does not exist*."
   - When you have already clicked the 'Commit changes' button but still want to change something then just click the 'Pencil icon' on the top right which means 'edit'.
 
   - Repeat the process of writing and editing until the term ends. By then, you have completed your DISMATH portfolio.
+  
+  - Backup your portfolio to your desktop/laptop with the ff. procedures:
+  	
+	- Download Github desktop from https://git-scm.com/download/win .
+	- Click the Git-2.7.0-32-bit.exe, Click 'Run', and Click 'Next' on all options for the default.
 
 3. ToBeAnnounced...
