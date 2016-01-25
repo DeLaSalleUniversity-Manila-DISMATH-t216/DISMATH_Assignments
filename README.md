@@ -69,4 +69,4 @@ does not exist*."
 3. ToBeAnnounced...
 
 
-![Quote](learning)
+![Quote](learning.jpg)
