@@ -9,7 +9,7 @@ does not prevent evil. If Superman exists, he is neither
 impotent nor malevolent. Therefore, Superman
 does not exist*."
 
-2. DISMATH Portfolio
+2. DISMATH Online Portfolio
   - Join the classroom by clicking the following link: 
   
     https://classroom.github.com/classrooms/16584600-delasalleuniversity-manila-dismath-t216
