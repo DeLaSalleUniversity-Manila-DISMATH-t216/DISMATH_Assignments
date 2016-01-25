@@ -88,6 +88,10 @@ does not exist*."
 	``` 
 	git config --global https.proxy http://proxy.dlsu.edu.ph:80
 	```
+	- Note 4: The error 'fatal: I don't handle protocol...' is caused by 'Copy-Pasting' thus, retype 'git clone ' then paste the link (It should clone successfully now as shwon in the previous screenshot.):
+	```
+	git clone https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-YourOwnUserName.git'
+	```
 
 3. ToBeAnnounced...
 
