@@ -69,12 +69,25 @@ does not exist*."
 	![Screenshot](Screenshot6.png)
 	- Click 'Git bash'
 	![Screenshot](Screenshot7.png)
-	- Change directory to Documents by typing the ff. command 'cd Documents'
-	- Clone your repository by typing the ff. command 'git clone https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-YourOwnUserName.git' 
+	- Change directory to Documents by typing the ff. command:
+	```
+	cd Documents
+	```
+	- Clone your repository by typing the ff. command:
+	```
+	git clone https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-YourOwnUserName.git' 
+	```
 	![Screenshot](Screenshot8.PNG)
+	
 	- Note 1: Replace 'YourOwnUserName' with your own username
-	- Note 2: If you are behind DLSU proxy, then set-up the http proxy by typing the command 'git config --global http.proxy http://proxy.dlsu.edu.ph:80' 
-	- Note 3: If you are behind DLSU proxy, then set-up the https proxy by typing the command 'git config --global https.proxy http://proxy.dlsu.edu.ph:80'
+	- Note 2: If you are behind DLSU proxy, then set-up the http proxy by typing the command: 
+	``` 
+	git config --global http.proxy http://proxy.dlsu.edu.ph:80' 
+	```
+	- Note 3: If you are behind DLSU proxy, then set-up the https proxy by typing the command:
+	``` 
+	git config --global https.proxy http://proxy.dlsu.edu.ph:80
+	```
 
 3. ToBeAnnounced...
 
