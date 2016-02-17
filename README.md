@@ -93,7 +93,5 @@ does not exist*."
 	git clone https://github.com/DeLaSalleUniversity-Manila-DISMATH-t216/dismathportfolio-YourOwnUserName.git'
 	```
 
-3. ToBeAnnounced...
-
 
 ![Quote](learning.jpg)
